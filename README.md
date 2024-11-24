@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Eva-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Eva LinkedIn">
   </a>
   <a href="https://www.linkedin.com/in/lyne-t/">
-    <img src="https://img.shields.io/badge/-Lyna-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Lyne LinkedIn">
+    <img src="https://img.shields.io/badge/-Lyne-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Lyne LinkedIn">
 </a>
   <a href="https://www.linkedin.com/in/oskar-h/">
     <img src="https://img.shields.io/badge/-Oskar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Oskar LinkedIn">
